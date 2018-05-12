@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29898#O-M-o-Rei-e-o-Bom-Subdito--13-Um-Trecho-da-Historia-Portugueza
 gutenberg_bookshelf: PT História
 gutenberg_issued: '2009-09-03'
 gutenberg_type: Text
