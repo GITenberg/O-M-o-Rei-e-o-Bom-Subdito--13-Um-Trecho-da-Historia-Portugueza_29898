@@ -1,0 +1,27 @@
+_repo: O-M-o-Rei-e-o-Bom-Subdito--13-Um-Trecho-da-Historia-Portugueza_29898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf: PT História
+gutenberg_issued: '2009-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29898'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History -- Sancho II, 1223-1248'
+- !lcc 'DP'
+- !lcsh 'Portugal -- History -- Afonso III, 1248-1279'
+title: 'O Máo Rei e o Bom Subdito: Um Trecho da Historia Portugueza'
+url: http://www.gutenberg.org/ebooks/29898
